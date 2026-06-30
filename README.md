@@ -77,7 +77,7 @@ python Netscope.py
 ## 👨‍💻 Author
 
 **Sairohith H**  
-Cybersecurity Enthusiast | MCA Student | Founder of PODEVS
+ Aspiring in Cloud , Data & Cybersecurity | MCA Student |
 
 ---
 
